@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.build/
+dist/
+.eggs/
+
+# Envs
+venv/
+.venv/
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Data & artifacts
+data/
+checkpoints/
+outputs/
+logs/
+*.ckpt
+*.pt
+*.bin
+*.onnx
+*.dylib
+*.so
+
+# OS
+.DS_Store
