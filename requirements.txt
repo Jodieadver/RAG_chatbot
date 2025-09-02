@@ -1,0 +1,7 @@
+certifi==2024.8.30
+lit==18.1.8
+meson==1.5.2
+numpy==2.1.1
+packaging==24.1
+setuptools==75.1.0
+wheel @ file:///opt/homebrew/Cellar/python%403.12/3.12.7/libexec/wheel-0.44.0-py3-none-any.whl#sha256=c01326144883c50263d6967d1145640f3bbc8dfab32c2cbe817ef61d7a810219
